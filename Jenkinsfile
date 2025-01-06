@@ -30,5 +30,6 @@ pipeline{
                  '''
     	    }
 	}
+	// Add the Release stage here
     }
 }
